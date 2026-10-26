@@ -8,6 +8,8 @@ Sessions mit Unterlagen sind in der Agenda verlinkt (📁) und haben jeweils ein
 
 - [Understanding DAX Pillars](./2026-10-14_Understanding-DAX-Pillars/) – Francesco Bergamaschi
 - [The Newsflash from FabCon Barcelona](./2026-10-15_Newsflash-FabCon-Barcelona/) – Gabi Münster
+- [When Interoperability Breaks Security: Governance‑Integration Fabric - Snowflake - Databricks](./2026-10-15_When-Interoperability-Breaks-Security/) – Matthias Nohl, Andreas Rederer
+- [Beyond Excel, Before Code - When Your Data Talks Back](./2026-10-15_Beyond-Excel-Before-Code/) – Matthias Eilenbrock, Daniel Eilenbrock
 - [ExplainableAI ist tot - aber wie geht es weiter?](./2026-10-15_ExplainableAI-ist-tot/) – Stephan Hausberg
 - [Ich habe mich überflüssig gemacht – und genau das war der nächste Schritt](./2026-10-15_Ich-habe-mich-ueberfluessig-gemacht/) – Burkhardt Gasber
 
@@ -32,7 +34,7 @@ Sessions mit Unterlagen sind in der Agenda verlinkt (📁) und haben jeweils ein
 | 09:00–09:30 | Ultra Loft | OneCommunity: Die Konstante in einer Welt voller Wandel | Ben Weissman (he/him) | Keynote | DE |  |
 | 09:30–10:30 | Das Plenum | Chat with your data - Warum LLM-basierte BI nicht in den Betrieb kommt | Luise Freese | Session | DE |  |
 | 09:30–10:00 | Ultra Loft | The Newsflash from FabCon Barcelona | Gabi Münster | Keynote | EN | [📁](./2026-10-15_Newsflash-FabCon-Barcelona/) |
-| 10:00–11:00 | Die Audiothek | When Interoperability Breaks Security: Governance‑Integration Fabric - Snowflake - Databricks | Matthias Nohl, Andreas Rederer | Session | DE |  |
+| 10:00–11:00 | Die Audiothek | When Interoperability Breaks Security: Governance‑Integration Fabric - Snowflake - Databricks | Matthias Nohl, Andreas Rederer | Session | DE | [📁](./2026-10-15_When-Interoperability-Breaks-Security/) |
 | 10:00–11:00 | Die Simultanten | Adventures in Real-Time Data Analysis! | Clemens Vasters | Session | DE |  |
 | 10:15–11:15 | Ultra Loft | Dashboard Roast | Nadine Keil, Diana Ackermann, Alexander Korn, Oliver Ulbrich, Michael Tenner, Katharina Covadonga Clören | Deep-Dive |  |  |
 | 11:00–12:00 | Das Plenum | Kommuniziere mit deinen Daten – KI-gestützte Interaktion mit Power BI und Power Apps | Florian Kleinz | Session | DE |  |
@@ -43,7 +45,7 @@ Sessions mit Unterlagen sind in der Agenda verlinkt (📁) und haben jeweils ein
 | 12:15–14:00 | Ultra Loft | Expert Lab | – | Lightning Talk |  |  |
 | 12:30–13:30 | Das Plenum | Building Data Literacy in the Microsoft Data Platform Era | Oliver Engels, Katharina Ricken | Session | EN |  |
 | 13:00–14:00 | Die Simultanten | Power BI Tenant Lens — X-Ray for Your Power BI Tenant | Tom Martens | Session | DE |  |
-| 13:30–14:30 | Die Audiothek | Beyond Excel, Before Code - When Your Data Talks Back | Matthias Eilenbrock, Daniel Eilenbrock | Session | DE |  |
+| 13:30–14:30 | Die Audiothek | Beyond Excel, Before Code - When Your Data Talks Back | Matthias Eilenbrock, Daniel Eilenbrock | Session | DE | [📁](./2026-10-15_Beyond-Excel-Before-Code/) |
 | 14:00–15:00 | Das Plenum | ExplainableAI ist tot - aber wie geht es weiter? | Stephan Hausberg | Session | DE | [📁](./2026-10-15_ExplainableAI-ist-tot/) |
 | 14:30–15:30 | Die Simultanten | Talking about mental health for you and for them | Traci Sewell | Session | DE |  |
 | 14:30–15:00 | Ultra Loft | Der Analyst stirbt. Lang lebe der Analyst. | Frederic Bauerfeind | Keynote | DE |  |
